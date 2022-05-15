@@ -16,3 +16,7 @@
 3. Net define
    The net file is located ./layers/
 4. The train commond is showed in the fold ./xyongle_sh
+
+##########################################################################################
+
+The dataset of the experiment could be downloaded from: https://drive.google.com/drive/folders/1o4WYa0gXuFWx6hlEGnpaZV-sEz8zElB4?usp=sharing
